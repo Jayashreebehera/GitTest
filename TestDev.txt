@@ -4,3 +4,5 @@ SVN
 Git
 Jenkins
 Devops
+Docker
+PowerShell
