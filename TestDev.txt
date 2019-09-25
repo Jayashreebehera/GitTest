@@ -4,9 +4,12 @@ SVN
 Git
 Jenkins
 Devops
+
 Docker
 PowerShell
 
 
 
-Done with my changes
+
+Final copy
+
