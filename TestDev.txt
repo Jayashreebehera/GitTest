@@ -7,8 +7,7 @@ Devops
 
 Docker
 PowerShell
-
-Kubernates and Docker
+ Docker
 Learning git
 
 Final copy
