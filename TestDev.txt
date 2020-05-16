@@ -8,7 +8,7 @@ Devops
 Docker
 PowerShell
 
-
+Kubernates
 
 
 Final copy
