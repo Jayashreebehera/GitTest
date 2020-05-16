@@ -9,7 +9,7 @@ Docker
 PowerShell
 
 Kubernates and Docker
-Learing git
+Learning git
 
 Final copy
 
